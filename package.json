@@ -1,0 +1,17 @@
+{
+  "name": "typescript2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "consola": "2.15.3",
+    "inquirer": "8.2.4",
+    "nodemon": "2.0.20",
+    "ts-node": "8.10.2",
+    "typescript": "^5.4.5"
+  }
+}
